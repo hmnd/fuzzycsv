@@ -17,7 +17,9 @@ setuptools.setup(
         "Programming Language :: Python :: 3.7",
         "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
+        "Development Status :: 1 - Planning",
         "Topic :: Utilities",
-        "Topic :: Science/Engineering :: Information Analysis"
+        "Topic :: Scientific/Engineering :: Information Analysis",
+        "Intended Audience :: Science/Research",
     ],
 )
